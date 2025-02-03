@@ -9,6 +9,10 @@ This Jupyter Notebook, **BuildingABrain.ipynb**, provides an introduction to art
 - Practical implementation using TensorFlow
 - GPU acceleration for faster training
 
+<a target="_blank" href="https://colab.research.google.com/github/Kathankathrotiya/Building_A_Brain/blob/main/BuildingABrain.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Requirements
 To run this notebook, you will need:
 - Python 3
